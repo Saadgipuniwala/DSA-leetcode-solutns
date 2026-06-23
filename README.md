@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0442-find-all-duplicates-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
