@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0724-find-pivot-index) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
