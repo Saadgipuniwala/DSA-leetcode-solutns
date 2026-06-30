@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,5 +72,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0344-reverse-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
