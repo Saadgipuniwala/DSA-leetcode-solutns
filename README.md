@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
