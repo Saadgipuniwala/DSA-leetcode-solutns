@@ -75,9 +75,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
