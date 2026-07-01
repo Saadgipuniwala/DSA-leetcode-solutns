@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0240-search-a-2d-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
