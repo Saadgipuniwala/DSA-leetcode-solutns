@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0189-rotate-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0231-power-of-two) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0054-spiral-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
