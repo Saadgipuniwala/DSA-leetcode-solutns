@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0349-intersection-of-two-arrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
