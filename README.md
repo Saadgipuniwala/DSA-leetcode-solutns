@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0069-sqrtx) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
