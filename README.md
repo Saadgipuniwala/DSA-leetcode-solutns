@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0567-permutation-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -158,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
