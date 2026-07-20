@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
