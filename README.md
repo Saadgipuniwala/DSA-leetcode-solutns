@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Saadgipuniwala/DSA-leetcode-solutns/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
