@@ -18,7 +18,7 @@ public:
         ListNode* next = NULL;
 
         int count = 0;
-
+        // reversing begins
         while (curr != NULL && count < k) {
             next = curr->next;
             curr->next = prev;
