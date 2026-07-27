@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-07-27T06:45:07.127Z",
+  "updatedAt": "2026-07-27T06:45:16.650Z",
   "problems": [
     {
       "frontendId": "24",
@@ -23,6 +23,26 @@
           "path": "DSA/topics/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "cb5d4b467ac44c18ee5cbaf5a69a7115838b4a14",
           "lastSyncedAt": "2026-07-27T06:45:07.127Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "DSA/topics/0148-sort-list/",
+      "readmePath": "DSA/topics/0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0148-sort-list.cpp",
+          "path": "DSA/topics/0148-sort-list/0148-sort-list.cpp",
+          "sha": "2e1979b839f5ba3b15b730125c708a63025a730c",
+          "lastSyncedAt": "2026-07-27T06:45:16.650Z"
         }
       ]
     }
