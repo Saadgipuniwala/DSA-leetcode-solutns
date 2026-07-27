@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-27T06:46:22.294Z",
+  "updatedAt": "2026-07-27T06:47:09.399Z",
   "problems": [
     {
       "frontendId": "138",
@@ -23,6 +23,26 @@
           "path": "DSA/topics/0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp",
           "sha": "eba0dc6bb44457ade28ebfed4788569e712c0d03",
           "lastSyncedAt": "2026-07-27T06:45:34.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "DSA/topics/0142-linked-list-cycle-ii/",
+      "readmePath": "DSA/topics/0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0142-linked-list-cycle-ii.cpp",
+          "path": "DSA/topics/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
+          "sha": "eb084c8cafe06b2925051baf2e1e18555a56fcb1",
+          "lastSyncedAt": "2026-07-27T06:47:09.399Z"
         }
       ]
     },
