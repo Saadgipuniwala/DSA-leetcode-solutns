@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-27T06:45:34.335Z",
+  "updatedAt": "2026-07-27T06:46:22.294Z",
   "problems": [
     {
       "frontendId": "138",
@@ -23,6 +23,26 @@
           "path": "DSA/topics/0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp",
           "sha": "eba0dc6bb44457ade28ebfed4788569e712c0d03",
           "lastSyncedAt": "2026-07-27T06:45:34.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "DSA/topics/0242-valid-anagram/",
+      "readmePath": "DSA/topics/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "DSA/topics/0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "5d653a7cc294af3edc7bfc1d97d193905f973aca",
+          "lastSyncedAt": "2026-07-27T06:46:22.294Z"
         }
       ]
     }
