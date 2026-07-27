@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-27T06:47:18.301Z",
+  "updatedAt": "2026-07-27T06:47:34.529Z",
   "problems": [
     {
       "frontendId": "26",
@@ -143,6 +143,26 @@
           "path": "DSA/topics/0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
           "sha": "c0561fa1a93d8dac326c8b81c4c629d9b9f6cfb4",
           "lastSyncedAt": "2026-07-27T06:45:53.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "DSA/topics/0876-middle-of-the-linked-list/",
+      "readmePath": "DSA/topics/0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0876-middle-of-the-linked-list.cpp",
+          "path": "DSA/topics/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
+          "sha": "0f415e423bd444f4b073a484a6c930baefaf1c55",
+          "lastSyncedAt": "2026-07-27T06:47:34.529Z"
         }
       ]
     }
