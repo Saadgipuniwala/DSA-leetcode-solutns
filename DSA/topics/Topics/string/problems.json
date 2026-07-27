@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-07-27T06:46:22.294Z",
+  "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "DSA/topics/0242-valid-anagram/",
+      "readmePath": "DSA/topics/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "DSA/topics/0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "5d653a7cc294af3edc7bfc1d97d193905f973aca",
+          "lastSyncedAt": "2026-07-27T06:46:22.294Z"
+        }
+      ]
+    }
+  ]
+}
