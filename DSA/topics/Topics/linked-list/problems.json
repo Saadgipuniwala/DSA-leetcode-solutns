@@ -4,6 +4,27 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-07-27T06:44:48.395Z",
-  "problems": []
+  "updatedAt": "2026-07-27T06:45:07.127Z",
+  "problems": [
+    {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "problemName": "0024-swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folderPath": "DSA/topics/0024-swap-nodes-in-pairs/",
+      "readmePath": "DSA/topics/0024-swap-nodes-in-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0024-swap-nodes-in-pairs.cpp",
+          "path": "DSA/topics/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
+          "sha": "cb5d4b467ac44c18ee5cbaf5a69a7115838b4a14",
+          "lastSyncedAt": "2026-07-27T06:45:07.127Z"
+        }
+      ]
+    }
+  ]
 }
