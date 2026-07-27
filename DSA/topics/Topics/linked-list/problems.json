@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-07-27T06:45:34.335Z",
+  "updatedAt": "2026-07-27T06:45:42.263Z",
   "problems": [
     {
       "frontendId": "24",
@@ -63,6 +63,26 @@
           "path": "DSA/topics/0148-sort-list/0148-sort-list.cpp",
           "sha": "2e1979b839f5ba3b15b730125c708a63025a730c",
           "lastSyncedAt": "2026-07-27T06:45:16.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "445",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "problemName": "0445-add-two-numbers-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii/",
+      "folderPath": "DSA/topics/0445-add-two-numbers-ii/",
+      "readmePath": "DSA/topics/0445-add-two-numbers-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0445-add-two-numbers-ii.cpp",
+          "path": "DSA/topics/0445-add-two-numbers-ii/0445-add-two-numbers-ii.cpp",
+          "sha": "d4f8a24fe48269c08938ff3d8e1f34b84441ffa3",
+          "lastSyncedAt": "2026-07-27T06:45:42.263Z"
         }
       ]
     }
