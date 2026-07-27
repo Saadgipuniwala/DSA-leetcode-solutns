@@ -4,6 +4,27 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-27T06:44:48.395Z",
-  "problems": []
+  "updatedAt": "2026-07-27T06:45:34.335Z",
+  "problems": [
+    {
+      "frontendId": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "problemName": "0138-copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "folderPath": "DSA/topics/0138-copy-list-with-random-pointer/",
+      "readmePath": "DSA/topics/0138-copy-list-with-random-pointer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0138-copy-list-with-random-pointer.cpp",
+          "path": "DSA/topics/0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp",
+          "sha": "eba0dc6bb44457ade28ebfed4788569e712c0d03",
+          "lastSyncedAt": "2026-07-27T06:45:34.335Z"
+        }
+      ]
+    }
+  ]
 }
