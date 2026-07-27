@@ -4,8 +4,28 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-07-27T06:45:42.263Z",
+  "updatedAt": "2026-07-27T06:45:53.371Z",
   "problems": [
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "DSA/topics/0234-palindrome-linked-list/",
+      "readmePath": "DSA/topics/0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0234-palindrome-linked-list.cpp",
+          "path": "DSA/topics/0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
+          "sha": "c0561fa1a93d8dac326c8b81c4c629d9b9f6cfb4",
+          "lastSyncedAt": "2026-07-27T06:45:53.371Z"
+        }
+      ]
+    },
     {
       "frontendId": "445",
       "title": "Add Two Numbers II",
