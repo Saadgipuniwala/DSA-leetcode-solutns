@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-07-27T06:45:42.263Z",
+  "problems": [
+    {
+      "frontendId": "445",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "problemName": "0445-add-two-numbers-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii/",
+      "folderPath": "DSA/topics/0445-add-two-numbers-ii/",
+      "readmePath": "DSA/topics/0445-add-two-numbers-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0445-add-two-numbers-ii.cpp",
+          "path": "DSA/topics/0445-add-two-numbers-ii/0445-add-two-numbers-ii.cpp",
+          "sha": "d4f8a24fe48269c08938ff3d8e1f34b84441ffa3",
+          "lastSyncedAt": "2026-07-27T06:45:42.263Z"
+        }
+      ]
+    }
+  ]
+}
