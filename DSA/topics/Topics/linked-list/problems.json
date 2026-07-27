@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-07-27T06:47:18.301Z",
+  "updatedAt": "2026-07-27T06:47:26.495Z",
   "problems": [
     {
       "frontendId": "21",
@@ -43,6 +43,26 @@
           "path": "DSA/topics/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "cb5d4b467ac44c18ee5cbaf5a69a7115838b4a14",
           "lastSyncedAt": "2026-07-27T06:46:07.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "DSA/topics/0025-reverse-nodes-in-k-group/",
+      "readmePath": "DSA/topics/0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0025-reverse-nodes-in-k-group.cpp",
+          "path": "DSA/topics/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.cpp",
+          "sha": "bc96510a1a3e9c4e6ae3c23fda2e6d1c1988bf9d",
+          "lastSyncedAt": "2026-07-27T06:47:26.495Z"
         }
       ]
     },
