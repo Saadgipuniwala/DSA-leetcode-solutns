@@ -8,7 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+class Solution {                           //Time Complexity: O(n + m) Space Complexity: O(1)
 public:
 ListNode* reverseList(ListNode* head) {
     if (head == NULL || head->next == NULL)
