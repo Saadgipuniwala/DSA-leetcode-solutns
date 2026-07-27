@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "enumeration",
+    "name": "Enumeration"
+  },
+  "updatedAt": "2026-07-27T06:47:54.767Z",
+  "problems": [
+    {
+      "frontendId": "3514",
+      "title": "Number of Unique XOR Triplets II",
+      "slug": "number-of-unique-xor-triplets-ii",
+      "problemName": "3514-number-of-unique-xor-triplets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+      "folderPath": "DSA/topics/3514-number-of-unique-xor-triplets-ii/",
+      "readmePath": "DSA/topics/3514-number-of-unique-xor-triplets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3514-number-of-unique-xor-triplets-ii.cpp",
+          "path": "DSA/topics/3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
+          "sha": "aeea3a7b996b742830bdc118a0f82ef15118089c",
+          "lastSyncedAt": "2026-07-27T06:47:54.767Z"
+        }
+      ]
+    }
+  ]
+}
